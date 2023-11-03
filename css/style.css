@@ -20,8 +20,10 @@ html{
     overflow-x: hidden;
 }
 body{
-    background: var(--bg-color);
+    background:url("https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1325174870.jpg?w=730&crop=1");
     color: var(--tect-color);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 hr{
     color: #fff;
